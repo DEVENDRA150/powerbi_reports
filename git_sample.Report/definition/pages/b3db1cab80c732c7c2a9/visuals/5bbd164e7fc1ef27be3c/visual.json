@@ -3,10 +3,10 @@
   "name": "5bbd164e7fc1ef27be3c",
   "position": {
     "x": 333.6076817558299,
-    "y": 565.37722908093269,
+    "y": 463.5390946502057,
     "z": 1,
     "width": 816.46090534979419,
-    "height": 154.51303155006858,
+    "height": 256.3511659807956,
     "tabOrder": 1
   },
   "visual": {
@@ -19,7 +19,7 @@
               {
                 "textRuns": [
                   {
-                    "value": "This is my new updates ",
+                    "value": "This is my new updates v2",
                     "textStyle": {
                       "fontSize": "42pt"
                     }
